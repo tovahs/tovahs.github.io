@@ -1,59 +1,79 @@
+
 ---
+
 layout: archive
+
 title: "CV"
+
 permalink: /cv/
+
 author_profile: true
+
 redirect_from:
-  - /resume
+
+- /resume
+
 ---
+
+  
 
 {% include base_path %}
 
+  
+
 Education
+
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* B.A. in Linguistics, University of Illinois at Urbana-Champaign, 2020
+
+  
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+======
+
+* January 2021 - Present : Research Assistant
+	Neuroscience of Language Lab, New York University Abu Dhabi
+	Supervisor: Alec Marantz
+
   
+
+* January 2019 - May 2021 : Undergraduate Research Assistant
+	UIUC Electrophysiology and Language Processing LabUIUC
+	Supervisor: Jeffery Green
+
+* January 2018 - December 2018: Undergraduate Research Assistant
+	Language Acquisition Lab at University of IllinoisLanguage
+	
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Psycholinguistic research methods
+* Python, R
+* Natural Language Processing (pytorch, scikit learn, huggingface)
+* Neural data analysis (mne, eelbrain)
+* EEG & MEG
+* Eye tracking
   
-Talks
+
+Languages
+
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+* French - intermediate
+
+* Spanish - advanced intermediate
+
+* Arabic (MSA, Levantine) - intermediate
+
+* Maltese - beginner
+
   
-Teaching
+
+Presentations
+
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* [ Anaphora Resolution in English by Native Spanish and Mandarin Speakers](http://mucsc.info/2020/) · *Midwest Undergraduate Cognitive Science Conference* · Apr 1, 2020
