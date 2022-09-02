@@ -19,11 +19,11 @@ redirect_from:
 <hr>
 
 ## Employment
--   January 2021 - Present : Research Assistant Neuroscience of Language Lab, New York University Abu Dhabi | PI: Alec Marantz
+-   January 2021 - Present : Research Assistant Neuroscience of Language Lab, New York University Abu Dhabi. PI: Alec Marantz
     
--   January 2019 - May 2021 : Undergraduate Research Assistant UIUC Electrophysiology and Language Processing Lab UIUC | PI: Jeffery Green
+-   January 2019 - May 2021 : Undergraduate Research Assistant UIUC Electrophysiology and Language Processing Lab UIUC. PI: Jeffery Green
     
--   January 2018 - December 2018: Undergraduate Research Assistant Language Acquisition Lab at University of Illinois | PI: Cynthia Fisher
+-   January 2018 - December 2018: Undergraduate Research Assistant Language Acquisition Lab at University of Illinois. PI: Cynthia Fisher
 <hr>
 
 ## Presentations
