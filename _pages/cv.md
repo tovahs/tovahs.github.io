@@ -19,7 +19,7 @@ redirect_from:
 <hr>
 
 ## Employment
--   January 2021 - Present : Research Assistant Neuroscience of Language Lab, New York University Abu Dhabi. PI: Alec Marantz
+-   January 2021 - Present : Research Assistant Neuroscience of Language Lab, New York University Abu Dhabi. PIs: Liina Pylkkänen, Alec Marantz
     
 -   January 2019 - May 2021 : Undergraduate Research Assistant UIUC Electrophysiology and Language Processing Lab UIUC. PI: Jeffery Green
     
@@ -28,21 +28,21 @@ redirect_from:
 
 ## Presentations
 ### Talks
-- **Irwin, T.,** Green, J., Anaphora Resolution in English by Native Spanish and Mandarin Speakers (2020). Midwest Undergraduate Cognitive Science Conference, presented virtually.
+- Green, J., **Irwin, T.,**, & Kesan, J.  Native-like L2 resolution of pronouns offline, but not online  (2022). UIC Bilingualism Forum, Chicago, US.
+- **Irwin, T.** & Green, J., Anaphora Resolution in English by Native Spanish and Mandarin Speakers (2020). Midwest Undergraduate Cognitive Science Conference, presented virtually.
 
 ### Posters
-- **Irwin, T.,** Marantz, A., (2022). Orthographic and Morphemic Effects on Word Recognition in Arabic. Architectures and Mechanisms for Language Processing 28, York, UK. [[pdf]](https://tovahs.github.io/files/AmLap%202022.pdf)
-- Azar, M., **Irwin, T.,** Marantz, A., (2022). Affix productivity and its role in word processing: MEG evidence from Arabic. Architectures and Mechanisms for Language Processing 28, York, UK
-
+-  **Irwin, T.** & Marantz, A., (2022). Neural Tracking of Rhythmically Presented Morpheme Structure. Society for the Neurobiology of Language, Philadelphia, US. [[pdf]](https://tovahs.github.io/files/SNL_2022.pdf)
+- **Irwin, T.** & Marantz, A., (2022). Orthographic and Morphemic Effects on Word Recognition in Arabic. Architectures and Mechanisms for Language Processing 28, York, UK. [[pdf]](https://tovahs.github.io/files/AmLap%202022.pdf)
 <hr>
 
 ## Awards
-- Foreign Language and Area Studies Fellow (2018)
-- Dean's List (2017 - 2019)
+- Foreign Language and Area Studies Fellowship (2018)
+- UIUC Dean's List (2017 - 2019)
 <hr>
 
-## Languages
-- English: Native
-- Spanish, French: Intermediate
-- Arabic: Early Intermediate
-- Maltese: Beginner
+## Skills
+- Technical: Python (numpy, scipy, scikit-learn, mne), R, Matlab, Javascript, Praat
+- Experimental: MEG, EEG, Eye tracking
+- Languages: English (Native), Spanish and French (Conversational), Arabic (MSA and Levantine, Intermediate), Maltese (Beginner)
+<hr>
