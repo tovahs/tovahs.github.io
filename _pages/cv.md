@@ -19,7 +19,7 @@ redirect_from:
 <hr>
 
 ## Employment
--   January 2021 - Present : Research Assistant Neuroscience of Language Lab, New York University Abu Dhabi. PIs: Liina Pylkkänen, Alec Marantz
+-   January 2021 - December 2022 : Research Assistant Neuroscience of Language Lab, New York University Abu Dhabi. PIs: Liina Pylkkänen, Alec Marantz
     
 -   January 2019 - May 2021 : Undergraduate Research Assistant UIUC Electrophysiology and Language Processing Lab UIUC. PI: Jeffery Green
     
