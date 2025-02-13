@@ -25,6 +25,7 @@ redirect_from:
 -   January 2019 - May 2021 : Undergraduate Research Assistant UIUC Electrophysiology and Language Processing Lab UIUC. PI: Jeffery Green
 -   January 2018 - December 2018: Undergraduate Research Assistant Language Acquisition Lab at University of Illinois. PI: Cynthia Fisher
 <hr>
+
 ## Publications
 - **Irwin, T.** & Kyra, W., Alec Marantz, BERT Shows Garden Path Effects (2023). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 3220–3232, Dubrovnik, Croatia. Association for Computational Linguistics. [[pdf]](https://aclanthology.org/2023.eacl-main.235.pdf) [[code]](https://github.com/kyrawilson/gardenBERT)
 
